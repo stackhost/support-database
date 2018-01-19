@@ -13,7 +13,7 @@ taxonomy:
 
 Here you can created, modify and delete email accounts for your domain.
 
-! For security resons, once you set a new password you can not retreive it, you can only change it again.
+! For security reasons, once you set a new password you can not retreive it, you can only change it again.
 
 ![](email_accounts.JPG)
 
