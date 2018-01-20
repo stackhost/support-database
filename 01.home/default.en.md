@@ -5,6 +5,25 @@ media_order: stackcp-1.JPG
 
 # StackHost.io Support Database
 
+### StackHost important information and urls
+Welcome! Before we continue here are some of our (and yours) important info.
+
+|Service|Url|Description
+|--|--|--|
+|Stack Cockpit| [https://stackcp.com](https://stackcp.com) | access to your hosting panel |
+|Stack Mail| [https://stackmail.com](https://stackmail.com) | access to webmail for any email account you create |
+|Stack Status| [https://stackstatus.com](https://stackstatus.com) | Service status monitoring |
+
+#### Stackhost.io nameservers
+Set your domain name servers to:
+
+|Stackhost.io name servers|
+|-|
+|`ns1.stackdns.com`|
+|`ns2.stackdns.com`|
+|`ns3.stackdns.com`|
+|`ns4.stackdns.com`|
+
 ### No 1st level support
 Wait! What? Yup, you heard it right. Here is the deal. **StackHost.io** is a "developers only" service. We do not cater to general public because our service (and servers) are customised for web developers. After much thinking on how to seperate developers from regular Joes we decided to drop 1st level support because as a developer you should be more then well versed in our everyday tasks (creating databases, connecting to them, installing apps, debugging them ...) and using tools like phpmyadmin, composer, git - if you use them. Please understand we are not primarly in hosting business. We do not have any plans on becoming the next HostGator. We are an exclusive "developers only" service for when they have that one extra project/customer that needs "SEO" boost far away from overcrowded, virus infested servers and they don't want to spend a small fortune on SEO sdvertising. 
 

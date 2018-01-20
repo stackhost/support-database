@@ -15,7 +15,7 @@ Tired of old-school, fussy control panels? Stack Cockpit (StackCP) offers a simp
 
 ### Created by StackHost devs
 
-Sorry but we just couldn't watch or work anymore in cPanel. It was fine for 2008 but not today. From the start, our team were focused on designing the ultimate web hosting control panel dedicated only to developers.
+Sorry but we just couldn't work anymore with cPanel. It was fine for 2008 but not today. From the start, our team were focused on designing the ultimate web hosting control panel dedicated only to developers.
 Decades of experience - combined with customer feedback - gave us that ambition. But it wasn’t easy.
 
 We had to create something new, but not too new! It still had to be familiar enough that an inexperienced web developer would understand it intuitively. We stipped it down to "developers only" features without too many "intelligence insulting" options. 

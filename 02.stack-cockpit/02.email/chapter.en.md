@@ -14,6 +14,15 @@ taxonomy:
 ### E-mail headquaters
 Email section of your Stack Cockpit is the entry point for your hosting package email accounts (and anything related).
 
+>>>>>> Webmail access: [https://stackmail.com](https://stackmail.com)
+
+|Stackhost.io name servers|
+|-|
+|`ns1.stackdns.com`|
+|`ns2.stackdns.com`|
+|`ns3.stackdns.com`|
+|`ns4.stackdns.com`|
+
 [ui-callout]
 
 [ui-callout-item title="Email Accounts" position="30%, 10%, sw"]
