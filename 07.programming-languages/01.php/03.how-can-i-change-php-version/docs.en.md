@@ -10,7 +10,14 @@ taxonomy:
 
 As standard, we run PHP 7.0. If you wish to switch this version, head to StackCP > Manage Hosting > "Change PHP Version"
 
+[ui-callout]
+
+[ui-callout-item title="Change PHP Version" position="40%, 45%, sw"]
+Change current running PHP version. We do our best to bring you the latest "stable" version the moment it is released.
+[/ui-callout-item]
+
 ![](web-tools.JPG)
+[/ui-callout]
 
 Change PHP version.
 

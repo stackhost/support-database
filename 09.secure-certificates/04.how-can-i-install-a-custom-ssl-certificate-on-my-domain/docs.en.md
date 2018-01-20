@@ -14,7 +14,14 @@ To install your custom SSL vertificate head over to [StackCP](https://stackcp.co
 
 Locate **Security** tab and click on **SSL/TLS**.
 
+[ui-callout]
+
+[ui-callout-item title="SSL/TLS" position="42%, 47%, sw"]
+Enable/disbale your free SSL certificate or install your own.
+[/ui-callout-item]
+
 ![](security.JPG)
+[/ui-callout]
 
 Towards the end of the page you'll see the **Install External SSL Certificate** form.
 

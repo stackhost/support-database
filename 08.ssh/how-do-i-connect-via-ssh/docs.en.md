@@ -28,7 +28,14 @@ This guide uses PuTTY which is a free SSH client and can be [downloaded here](ht
 
 3. Login to [StackCP](https://stackcp.com), head to ‘Manage Hosting’ and select the package that you want SSH access for. Then select, ‘SSH Access’ from under the ‘Security’ section.
 
+[ui-callout]
+
+[ui-callout-item title="SSH Access" position="42%, 9%, sw"]
+Manage keys and configure root access to your hosting package via SSH.
+[/ui-callout-item]
+
 ![](security.JPG)
+[/ui-callout]
 
 4. Then input the **public key** (should be in your clipboard from step 2) that was generated from PuTTYgen into the **‘Public Key’** box. A handle will be generated automatically. Then select **‘Add Public Key’**.
 

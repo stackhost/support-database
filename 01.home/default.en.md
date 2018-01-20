@@ -5,9 +5,9 @@ media_order: stackcp-1.JPG
 
 # StackHost.io Support Database
 
-### StackHost important information and urls
 Welcome! Before we continue here are some of our (and yours) important info.
 
+### StackHost important information and urls
 |Service|Url|Description
 |--|--|--|
 |Stack Cockpit| [https://stackcp.com](https://stackcp.com) | access to your hosting panel |
@@ -23,6 +23,21 @@ Set your domain name servers to:
 |`ns2.stackdns.com`|
 |`ns3.stackdns.com`|
 |`ns4.stackdns.com`|
+
+### Email settings
+|Account settings| |
+|-|-|
+|Username|_email address_|
+|Password|Use the email account’s password.|
+|Incoming Server|imap.your-domain.tld (for POP3 use pop3.your-domain.tld)|
+|IMAP Port|993 (143 for non-SSL)|
+|POP3 Port|995 (110 for non-SSL)|
+|Outgoing Server|smtp.your-domain.tld|
+|SMTP Port|465 (25 or 587 for non-SSL)|
+|Username|_email address_|
+|[color=green]**Authentication is required for IMAP, POP3, and SMTP.**[/color]| |
+
+Ok, that was it, here we go...
 
 ### No 1st level support
 Wait! What? Yup, you heard it right. Here is the deal. **StackHost.io** is a "developers only" service. We do not cater to general public because our service (and servers) are customised for web developers. After much thinking on how to seperate developers from regular Joes we decided to drop 1st level support because as a developer you should be more then well versed in our everyday tasks (creating databases, connecting to them, installing apps, debugging them ...) and using tools like phpmyadmin, composer, git - if you use them. Please understand we are not primarly in hosting business. We do not have any plans on becoming the next HostGator. We are an exclusive "developers only" service for when they have that one extra project/customer that needs "SEO" boost far away from overcrowded, virus infested servers and they don't want to spend a small fortune on SEO sdvertising. 

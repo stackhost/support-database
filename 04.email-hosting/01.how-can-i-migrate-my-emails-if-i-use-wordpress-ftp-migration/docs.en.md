@@ -16,7 +16,14 @@ To do this:
 - Select which package you want to migrate emails into via Manage Hosting.
 - Select the Email Migrations tool that is within the emails section. 
 
+[ui-callout]
+
+[ui-callout-item title="Email Migration" position="60%, 23%, sw"]
+Use this tool to migrate your emails from various providers.
+[/ui-callout-item]
+
 ![](email.JPG)
+[/ui-callout]
 
 - You can now simply enter the relevant credentials and select then select 'Sync'.
 
