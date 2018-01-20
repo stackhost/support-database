@@ -13,6 +13,7 @@ Welcome! Before we continue here are some of our (and yours) important info.
 |Stack Cockpit| [https://stackcp.com](https://stackcp.com) | access to your hosting panel |
 |Stack Mail| [https://stackmail.com](https://stackmail.com) | access to webmail for any email account you create |
 |Stack Status| [https://stackstatus.com](https://stackstatus.com) | Service status monitoring |
+|Stack SSH| [ssh.stackcp.com](ssh.stackcp.com) | SSH hostname, **port: 22** |
 
 #### Stackhost.io nameservers
 Set your domain name servers to:
