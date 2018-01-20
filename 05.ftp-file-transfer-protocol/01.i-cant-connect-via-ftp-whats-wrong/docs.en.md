@@ -14,18 +14,14 @@ There are a couple of common causes for not being able to connect to FTP:
 ### Nameservers
 
 You need to make sure the domain is using our nameservers. These are:
-	
-	ns1.stackdns.com    
----
 
-	ns2.stackdns.com
----
+|Stackhost.io nameservers|
+|-|
+|`ns1.stackdns.com`|
+|`ns2.stackdns.com`|
+|`ns3.stackdns.com`|
+|`ns4.stackdns.com`|
 
-	ns3.stackdns.com
----
-
-	ns4.stackdns.com
-	
 
 ### Unlock FTP
 

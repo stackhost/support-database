@@ -5,9 +5,11 @@ media_order: stackcp-1.JPG
 
 # StackHost.io Support Database
 
-Welcome! Before we continue here are some of our (and yours) important info.
+Welcome to the StackHost.io Support Database! Before we continue here are few important info gathered in one place.
+If you find any errors or you think something could be better explained feel free tu use the "edit this page" link at the top right corner of each page and
+help us :)
 
-### StackHost important information and urls
+### StackHost.io important information and urls
 |Service|Url|Description
 |--|--|--|
 |Stack Cockpit| [https://stackcp.com](https://stackcp.com) | access to your hosting panel |
@@ -18,7 +20,7 @@ Welcome! Before we continue here are some of our (and yours) important info.
 #### Stackhost.io nameservers
 Set your domain name servers to:
 
-|Stackhost.io name servers|
+|Stackhost.io nameservers|
 |-|
 |`ns1.stackdns.com`|
 |`ns2.stackdns.com`|
