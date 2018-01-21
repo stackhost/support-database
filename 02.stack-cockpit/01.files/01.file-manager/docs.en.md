@@ -20,7 +20,14 @@ If you know how to SSH, always SSH! :)
 Looks great on mobile devices, that's why it is usefull.
 
 ### User Interface
-At the bottom of the screeen is your toolbar with "usual suspects" as upload, download, edit, delete. We also added
-CHMOD. You're welcome :)
+At the bottom of the screen is your toolbar with normal operations like: 
+    - upload
+    - download
+    - edit
+    - delete
+    - etc..
+     
+We also added
+    - CHMOD. You're welcome :)
 
 ![Stack Cockpit File manager](file-manager.JPG)

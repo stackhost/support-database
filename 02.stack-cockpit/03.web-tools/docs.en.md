@@ -54,9 +54,6 @@ Set up redirects for your domain.
 ### MySQL Databases
 See: [Databases](/databases)
 
-### MySQL Databases
-See: [Databases](/databases)
-
 ### Remote MySQL
 As standard, remote MySQL access is blocked for security reasons. You can enable access for certain IP addresses below. 
 
