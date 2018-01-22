@@ -64,7 +64,7 @@ Here you can enable/disable FTP access. We think this to be our best solution re
 [ui-callout-item title="FTP Details" position="87%, 75%, sw"]
 This is your "main" FTP account and it's details.
 [/ui-callout-item]
-[ui-browser address="https://stackcp.com"]
+[ui-browser address="https://stackcp.com/login/demo"]
 ![](stackcp.JPG)
 [/ui-browser]
 
