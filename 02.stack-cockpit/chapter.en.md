@@ -13,15 +13,15 @@ taxonomy:
 
 Tired of old-school, fussy control panels? Stack Cockpit (StackCP) offers a simple and elegant alternative. Manage domains, websites, databases, email accounts, and more from our powerful, modern user interface.
 
-### Created by StackHost devs
+### Created by WebDevs for WebDevs
 
-Sorry but we just couldn't work anymore with cPanel. It was fine for 2008 but not today. From the start, our team were focused on designing the ultimate web hosting control panel dedicated only to developers.
+From the start, our team were focused on designing the ultimate web hosting control panel dedicated only to developers.
 Decades of experience - combined with customer feedback - gave us that ambition. But it wasn’t easy.
 
 We had to create something new, but not too new! It still had to be familiar enough that an inexperienced web developer would understand it intuitively. We stipped it down to "developers only" features without too many "intelligence insulting" options. 
 It also had to be responsive, attractive and cohesive. It needed to be a pleasure to use, not a chore.
 
-We think we were successful. Stack Cockpit has been described as ‘not only beautiful, but fully functional’. It’s easy to navigate, puts everyday tasks right at your fingertips and is supported by a host of reference articles.
+We think we were successful. **Stack Cockpit** has been described as ‘not only beautiful, but fully functional’. It’s easy to navigate, puts everyday tasks right at your fingertips and is supported by a host of reference articles.
 
 Like a successful website, it puts user experience first. Also like the best sites, we’re not leaving it there: based on user data and feedback, we’re working to make it better all the time.
 
