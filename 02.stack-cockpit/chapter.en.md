@@ -11,7 +11,7 @@ taxonomy:
 
 ### Stack Cockpit (StackCP)
 
-Tired of old-school, fussy control panels? Stack Cockpit (StackCP) offers a simple and elegant alternative. Manage domains, websites, databases, email accounts, and more from our powerful, modern user interface.
+Tired of old-school, fussy control panels? **Stack Cockpit** (or **StackCP**) offers a simple and elegant alternative. Manage domains, websites, databases, email accounts, and more from our powerful, modern user interface.
 
 ### Created by WebDevs for WebDevs
 
