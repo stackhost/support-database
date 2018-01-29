@@ -49,7 +49,23 @@ Wait! What? Yup, you heard it right. Here is the deal. **StackHost.io** is a "de
 >>>>> But in any case, if you need us you will be "stalked" on every page by our `support widget` so please feel free to use it :)
 
 ### About us
-**StackHost.io** was created by a group of grumpy veteran web developers (yours trully started developing in PHP in 2001) who just had enough of having to upload our projects to overcrowded servers and have zero chance of fighting for organic search positions (and than have to spend a small fortune on SEO advertising). Every time we moved hosting providers who promised "mountains" we saw it was just all the same. Virus infested servers no matter what they say. Plus we had 3 hosting providers with "real SSD" storage which turned out to be slower than a floopy disk. So we started building a small server stack (hence the name **StackHost**) to host our own projects. After few months other colleagues started asking where do we host the sites as they were fast, gooole friendly and well positioned. Turnes out majority of them had the same problem. Or in the case they did had private server it was not oprimised for "seo". So we (reluctantly at first because we didn't want to start yet another hosting service) added few more servers and told our colleagues we could host only "important" projects that need **SEO boost**, otherwise they should use "normal" hosting providers for majority of their projects. But after we filled the first few servers (50 domains per server limit) we saw that there really is a need for "developers only" service. So **StackHost.io** was born. Every aspect of our service is made for developers. We are all primarly developers during the day so please don't think of **StackHost.io** as "just another hosting provider". We are a small operation and we plan on staying that way no matter what because majority of us are "developers by heart" meaning we like programming and developing during the day rather than answering beginner questions (just like you basically). We do however have  a server limit. If we reach that number we will "close" StackHost.io for new customers rather than getting more server space.
+**StackHost.io** was created by a group of grumpy veteran web developers (yours trully started developing in PHP in 2001) 
+who just had enough of having to upload our projects to overcrowded servers and have zero chance of fighting for organic 
+search positions (and than have to spend a small fortune on SEO advertising). 
+Every time we moved hosting providers who promised "mountains" we saw it was just all the same. 
+Virus infested servers no matter what they say. Plus we had 3 hosting providers with "real SSD" storage which turned out to be slower than a floopy disk. 
+So we started building a small server stack (hence the name **StackHost**) to host our own projects. 
+After a few months other colleagues started asking where do we host the sites as they were fast, gooole friendly and well positioned. 
+
+Turnes out majority of them had the same problem. Or in the case they did had the private server it was not optimised for "seo". 
+So we (reluctantly at first because we didn't want to start yet another hosting service) added few more servers and told our colleagues we could host only 
+"important" projects that need **SEO boost**, otherwise they should use "normal" hosting providers for majority of their projects. 
+After we filled the first few servers (50 domains per server limit) we saw that there really is the need for "developers only" service. 
+
+So **StackHost.io** was born. Every aspect of our service is made for developers. We are all primarly developers during the day so please don't think of **StackHost.io** 
+as "just another hosting provider". 
+
+We are a small operation and we plan on staying that way no matter what because majority of us are "developers by heart" meaning we like programming and developing during the day rather than answering beginner questions (just like you basically). We do however have  a server limit. If we reach that number we will "close" StackHost.io for new customers rather than getting more server space.
 
 In return for accepting our "no 1st level support" policy we offer you :
 - servers build and optmised from every angle for one thing and one thing only - **organic SEO**!

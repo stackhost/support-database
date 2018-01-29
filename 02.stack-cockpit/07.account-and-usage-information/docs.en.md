@@ -16,3 +16,5 @@ Further bellow you can see Usage Information for your site depending on the pack
 
 ![](account-information.JPG)
 
+!!! See: [Temporary Address: what is it and what is it used for?](/web-hosting/temporary-urls-what-are-they-and-what-are-they-used-for)
+
