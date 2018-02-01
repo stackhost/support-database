@@ -30,7 +30,7 @@ One example of a CNAME is 'webbuilder.stackcp.com' pointing to 'builder.stackcp.
 
 ### 'MX' records
 
-MX stands for 'mail exchanger'. It tells a 'sending' mail server how to find the 'receiving' mail server, given in order of priority, with the lowest numbers given highest priority. The MX records for Stackhost.io are 'mx.stackhost.io' with priority 1 and then 'mx2.stackhost.io' with priority 2. So they're tried in that order by the sending mail server. Simply, 'mx.stackhost.io' and 'mx.stackhost.io' are regular A records (see above) that point to the IP address of each mailserver that handles mail for stackhost.io.
+MX stands for 'mail exchanger'. It tells a 'sending' mail server how to find the 'receiving' mail server, given in order of priority, with the lowest numbers given highest priority. The MX records for StackHost.io are 'mx.stackhost.io' with priority 1 and then 'mx2.stackhost.io' with priority 2. So they're tried in that order by the sending mail server. Simply, 'mx.stackhost.io' and 'mx.stackhost.io' are regular A records (see above) that point to the IP address of each mailserver that handles mail for stackhost.io.
 
 ### 'TXT' records
 

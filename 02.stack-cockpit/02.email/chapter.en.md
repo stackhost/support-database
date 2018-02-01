@@ -16,7 +16,7 @@ Email section of your Stack Cockpit is the entry point for your hosting package 
 
 >>>>>> Webmail access: [https://stackmail.com](https://stackmail.com)
 
-|Stackhost.io name servers|
+|StackHost.io name servers|
 |-|
 |`ns1.stackdns.com`|
 |`ns2.stackdns.com`|

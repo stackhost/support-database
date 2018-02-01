@@ -5,7 +5,9 @@ media_order: stackcp-1.JPG
 
 # StackHost.io Support Database
 
-Welcome to the StackHost.io Support Database! Before we continue here are few important info gathered in one place.
+!!!! Welcome to the StackHost.io Support Database!
+
+Before we continue here are few important info gathered in one place.
 If you find any errors or you think something could be better explained feel free tu use the "edit this page" link at the top right corner of each page and
 help us :)
 
@@ -17,10 +19,10 @@ help us :)
 |Stack Status| [https://stackstatus.com](https://stackstatus.com) | Service status monitoring |
 |Stack SSH| [ssh.stackcp.com](ssh.stackcp.com) | SSH hostname, **port: 22** |
 
-#### Stackhost.io nameservers
+#### StackHost.io nameservers
 Set your domain name servers to:
 
-|Stackhost.io nameservers|
+|StackHost.io nameservers|
 |-|
 |`ns1.stackdns.com`|
 |`ns2.stackdns.com`|

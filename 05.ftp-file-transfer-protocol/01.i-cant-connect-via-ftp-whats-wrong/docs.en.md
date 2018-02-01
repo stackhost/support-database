@@ -15,7 +15,7 @@ There are a couple of common causes for not being able to connect to FTP:
 
 You need to make sure the domain is using our nameservers. These are:
 
-|Stackhost.io nameservers|
+|StackHost.io nameservers|
 |-|
 |`ns1.stackdns.com`|
 |`ns2.stackdns.com`|
