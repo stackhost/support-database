@@ -18,5 +18,5 @@ SQL is the most popular language for adding, accessing and managing content in a
 
 One of the most important things about using MySQL is to have a MySQL specialized host.
 
->>>>>> We have long experience in providing technical support for MySQL-based web sites which means our servers are perfectly optimized to offer the best overall performance for most MySQL applications
+>>>>>> We have long experience in providing technical support for MySQL-based web sites which means our servers are perfectly optimised to offer the best overall performance for most MySQL applications
 
