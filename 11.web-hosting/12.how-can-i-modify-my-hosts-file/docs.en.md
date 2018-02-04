@@ -7,7 +7,7 @@ taxonomy:
         - hosting
 ---
 
-Your machine's local hosts file allows you to overide DNS for a particular domain or subdomain name. This is a great way to test the site ahead of changing real DNS: you're able to test the website at 20i while the rest of the internet continues to use DNS to point to the existing website.
+Your machine's local hosts file allows you to overide DNS for a particular domain or subdomain name. This is a great way to test the site ahead of changing real DNS: you're able to test the website at StackHost while the rest of the internet continues to use DNS to point to the existing website.
 
 The way to modify this file and the location of it differs by operating system. 
 
