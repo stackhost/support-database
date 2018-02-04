@@ -7,9 +7,8 @@ media_order: stackcp-1.JPG
 
 !!!! Welcome to the StackHost.io Support Database!
 
-Before we continue here are few important info gathered in one place.
-If you find any errors or you think something could be better explained feel free tu use the "edit this page" link at the top right corner of each page and
-help us :)
+If you find any errors or you think something could be better explained feel free to use the "edit this page" link at the top right corner of each page and
+help our community.
 
 ### StackHost.io important information and urls
 |Service|Url|Description
